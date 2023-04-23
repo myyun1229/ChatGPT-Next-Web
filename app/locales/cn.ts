@@ -3,7 +3,7 @@ import { SubmitKey } from "../store/config";
 const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
-    Unauthorized: "现在是未授权状态，请点击左下角设置按钮输入访问密码，请联系网站所有者：17677308341。",
+    Unauthorized: "现在是未授权状态，请点击左下角设置按钮输入访问密码，请联系网站所有者：17677308341。(如对搭建同款网站感兴趣，只要钱到位，没有做不到的事。)",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
